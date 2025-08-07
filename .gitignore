@@ -1,0 +1,19 @@
+# python artifacts
+__pycache__/
+.cache/
+.mypy_cache/
+.pytest_cache/
+
+# virtual envs
+.venv/
+env/
+venv/
+
+.vscode
+
+# local data
+*.db
+*.sqlite
+*.sqlite3
+src/database_infra/dbs/
+
