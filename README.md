@@ -2,6 +2,10 @@
 
 tiny micro-service that computes three classic math operations, stores every request in SQLite, and ships with Docker 
 
+> **Project developed by:**  
+> Darius Fratila  
+> Octavian Paul Ilies  
+> Adina Denisa Horj
 ---
 
 ## quick-start (local)
